@@ -10,7 +10,7 @@ body {font:normal 12px/1.6em simsun, Tahoma, Verdana, Lucida, Arial, Helvetica, 
 .bgColor{width:100%;}
 .banner{width:1440px;margin:0 auto;}
 .banner .b0{height:276px;background:url(../images/b0.jpg);border-bottom:6px solid #000;text-indent:-9999px}
-.nav{height:68px;position:relative;background:url("bg_a.png") repeat scroll 0 0 transparent;*background:url(../images/navbg.gif);z-index:9999;width:100%;left:0}
+.nav{height:68px;position:relative;background:url("../images/bg_a.png") repeat scroll 0 0 transparent;*background:url(../images/navbg.gif);z-index:9999;width:100%;left:0}
 .navul{width:980px;margin:0 auto;position:relative}
 .nav ul{position:relative;z-index:10;}
 .nav ul li{float:left;width:158px;height:35px;border-right:1px solid #D49001;text-align:center;line-height:35px;margin:12px 0 0 0;cursor:pointer}
